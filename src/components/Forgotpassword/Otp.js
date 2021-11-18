@@ -107,7 +107,7 @@ import './otp.css'
                     }
                 </div>
                 <h6>Resend the OTP <b onClick={e => this.resendOTP(e)}>here </b>?</h6>
-                <h6>OTP is {OTP} (Note* For thesting purpose.)</h6>
+                <h6>OTP is {OTP} (Note* For the testing purpose.)</h6>
             </form>
             </div>
         )
