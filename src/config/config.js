@@ -1,0 +1,1 @@
+export const hostname = 'https://simple-login-v1.herokuapp.com'
